@@ -1,0 +1,29 @@
+{
+  "name": "imcdb_scraper",
+  "version": "1.0.0",
+  "description": "IMCDB scraper",
+  "main": "imcdb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollanjs/imcdb_scraper.git"
+  },
+  "keywords": [
+    "Internet",
+    "Movie",
+    "Car",
+    "Database"
+  ],
+  "author": "Josh Hollandsworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hollanjs/imcdb_scraper/issues"
+  },
+  "homepage": "https://github.com/hollanjs/imcdb_scraper#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.57.0"
+  }
+}
